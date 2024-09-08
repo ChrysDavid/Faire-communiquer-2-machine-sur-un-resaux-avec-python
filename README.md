@@ -6,13 +6,13 @@ Description brève du projet de formation PY. Expliquez ici l'objectif de la for
 
 Cette section décrit les fonctionnalités côté client du projet.
 
-![Capture d'écran du côté client](src/Capture.PNG)
+![Capture d'écran du côté serveur](src/Capture2.PNG)
 
 ## Côté Serveur
 
 Cette section décrit les fonctionnalités côté serveur du projet.
 
-![Capture d'écran du côté serveur](src/Capture2.PNG)
+![Capture d'écran du côté client](src/Capture.PNG)
 
 ## Installation
 
