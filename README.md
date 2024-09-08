@@ -1,6 +1,25 @@
-# PROJET DE FORMATION PY
+# Projet de Formation PY
 
-- Cote client :
+Description brève du projet de formation PY. Expliquez ici l'objectif de la formation, les technologies utilisées, et ce que les utilisateurs peuvent apprendre en suivant ce projet.
 
- - Cote server :
-<img>src="src/capture2"</img>
+## Côté Client
+
+Cette section décrit les fonctionnalités côté client du projet.
+
+![Capture d'écran du côté client](src/capture.png)
+
+## Côté Serveur
+
+Cette section décrit les fonctionnalités côté serveur du projet.
+
+![Capture d'écran du côté serveur](src/capture2.png)
+
+## Installation
+
+Indiquez ici comment les utilisateurs peuvent installer et configurer le projet.
+
+```bash
+# Clonez ce dépôt
+git clone https://github.com/votre-utilisateur/projet-formation-py.git
+
+
